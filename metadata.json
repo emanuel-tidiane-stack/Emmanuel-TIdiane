@@ -1,0 +1,5 @@
+{
+  "name": "Operational Quality Intelligence Dashboard",
+  "description": "A dashboard to visualize operational quality metrics from Google Sheets data, providing clarity on feedback loops, coaching effectiveness, and agent performance to drive efficiency and proactive risk management.",
+  "requestFramePermissions": []
+}
